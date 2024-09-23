@@ -7,10 +7,9 @@ global.Buffer = global.Buffer || require('buffer').Buffer // eslint-disable-line
 
 // Developer note console messages
 /* eslint-disable no-console */
+console.log('The storm is coming.')
 console.log('block-explorer - ', EXPLORER_VERSION)
 console.log('Funding for developers available from The QRL Foundation.  Interested? jobs@theqrl.org')
-console.log('Found a security bug? security@theqrl.org')
-console.log('Found a problem? https://github.com/theQRL/block-explorer/issues')
 /* eslint-enable no-console */
 
 let disconnectTimer = null
