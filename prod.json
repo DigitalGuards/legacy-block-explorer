@@ -1,0 +1,10 @@
+{
+  "glip": {
+    "webhook": "INSERT GLIP WEBHOOK HTTPS:// ADDRESS HERE"
+  },
+  "api": {
+    "primaryNode": "127.0.0.1:19009",
+    "secondaryNode": "mainnet-2.automated.theqrl.org:19009",
+    "tertiaryNode": "mainnet-1.automated.theqrl.org:19009"
+  }
+}
